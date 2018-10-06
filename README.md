@@ -1,0 +1,2 @@
+# student-database-system
+student database system provides a all students name, course, ID,Fees. Deleting and insertion of any students can be done. And all the student details are according the Id. ID is matching with the students name and all the IDs are stored in acceding form.  Every students details are stored in each node of the data structure. And all the students details are stored in file with ascending order of the IDs.  
